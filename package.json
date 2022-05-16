@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-willnorris-imageproxy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "LESS Plugin for willnorris/imageproxy urls",
   "main": "index.js",
   "repository": {
