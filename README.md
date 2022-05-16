@@ -14,7 +14,7 @@ npm i less-plugin-willnorris-imageproxy
 @plugin "/node_modules/less-plugin-willnorris-imageproxy/index";
 
 .example-selector {
-  @url: imageUrl(@imageProxyUrl, @imageUrl, @secretKey);
+  @url: imageUrl(@imageProxyUrl, @preset, @imageUrl, @secretKey);
   background-image: url(@url);
 }
 ```
