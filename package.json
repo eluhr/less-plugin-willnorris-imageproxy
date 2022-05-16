@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-willnorris-imageproxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LESS Plugin for willnorris/imageproxy urls",
   "main": "index.js",
   "repository": {
@@ -20,7 +20,5 @@
     "url": "https://github.com/eluhr/less-plugin-willnorris-imageproxy/issues"
   },
   "homepage": "https://github.com/eluhr/less-plugin-willnorris-imageproxy#readme",
-  "dependencies": {
-    "crypto-js": "^4.1.1"
-  }
+  "dependencies": {}
 }
