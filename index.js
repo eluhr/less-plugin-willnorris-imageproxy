@@ -1,4 +1,4 @@
-var crypto = require('crypto'); // npm install -g crypto-js
+var crypto = require('crypto');
 registerPlugin({
     install: function (less, pluginManager, functions) {
         function createSha256BinaryHmacKey (text, secret) {
