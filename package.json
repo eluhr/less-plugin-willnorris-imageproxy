@@ -1,0 +1,26 @@
+{
+  "name": "less-plugin-willnorris-imageproxy",
+  "version": "0.0.1",
+  "description": "LESS Plugin for willnorris/imageproxy urls",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eluhr/less-plugin-willnorris-imageproxy.git"
+  },
+  "keywords": [
+    "less",
+    "less",
+    "plugin",
+    "willnorris",
+    "imageproxy"
+  ],
+  "author": "Elias Luhr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eluhr/less-plugin-willnorris-imageproxy/issues"
+  },
+  "homepage": "https://github.com/eluhr/less-plugin-willnorris-imageproxy#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
